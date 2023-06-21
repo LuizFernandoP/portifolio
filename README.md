@@ -1,5 +1,3 @@
-```
-
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
 ## Ferramentas utilizadas:
@@ -15,5 +13,3 @@
 ### Luiz Fernando
 
 ### Linkedin: https://www.linkedin.com/in/luiz-fernando-paes-87a34b234/
-
-```
